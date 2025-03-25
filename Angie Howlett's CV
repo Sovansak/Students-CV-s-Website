@@ -12,8 +12,8 @@
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="damin.html">Damin's CV</a></li>
-                <li><a href="david.html">David's CV</a></li>
+                <li><a href="damin.html">Sovansak's CV</a></li>
+                <li><a href="david.html">Vichanun's CV</a></li>
             </ul>
         </nav>
     </header>
@@ -23,11 +23,11 @@
         <table>
             <tr>
                 <td><strong>Name:</strong></td>
-                <td>Angie Thompson</td>
+                <td>Angie Howlett</td>
             </tr>
             <tr>
                 <td><strong>Email:</strong></td>
-                <td>angie.thompson@email.com</td>
+                <td>angie.howlett@email.com</td>
             </tr>
             <tr>
                 <td><strong>Phone:</strong></td>
@@ -35,7 +35,7 @@
             </tr>
             <tr>
                 <td><strong>Address:</strong></td>
-                <td>456 Sunset Avenue, Cityville</td>
+                <td>100 11th Avenue in Chelsea, New York City.</td>
             </tr>
         </table>
 
